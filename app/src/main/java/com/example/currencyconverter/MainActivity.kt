@@ -110,7 +110,7 @@ fun CurrencyConverterApp(viewModel: MainViewModel = viewModel()) {
                     viewModel.showResult = true
                     keyboardController?.hide()
                 } else {
-                    // Manejar el caso de monto no válido, por ejemplo, mostrando un mensaje de error.
+                  
                 }
             }) {
                 Text("Convertir")
@@ -165,7 +165,6 @@ fun CurrencyDropdown(
     }
 }
 
-// Opcional: Previews para ver la interfaz en el editor de Android Studio
 @Preview(showBackground = true)
 @Composable
 fun PreviewCurrencyConverterApp() {
