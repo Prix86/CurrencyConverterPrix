@@ -10,7 +10,7 @@ Esta es una aplicación de conversión de moneda para Android que te permite con
 
 ## 
 
-App hecha para la materia Desarrollo de Aplicaciones Móviles I impartida por el profesor Julio Caro Cota
+App hecha por Priscila Velazquez para la materia  Desarrollo de Aplicaciones Móviles I impartida por el profesor Julio Caro. 
 
 ## Datos Adicionales 
 
